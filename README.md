@@ -8,6 +8,8 @@ This part was created for my personal use in my microcontroller university cours
 
 TODOs:
   Make all the pins uniformal
+  
   Make the chip the appropriate width
+  
   Make a JTAG connection base at the bottom of the ic
 
