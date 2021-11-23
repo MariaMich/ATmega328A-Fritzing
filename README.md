@@ -7,6 +7,7 @@ A Fritzing custom ATmega32PU-A part
 This part was created for my personal use in my microcontroller university course.
 
 TODOs:
+
   Make all the pins uniformal
   
   Make the chip the appropriate width
