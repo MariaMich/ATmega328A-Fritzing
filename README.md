@@ -1,4 +1,4 @@
-# ATmega32PU-A-Fritzing
+# ATmega328APU-A-Fritzing
 
 A Fritzing custom ATmega32PU-A part
 
