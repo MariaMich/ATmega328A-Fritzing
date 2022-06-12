@@ -9,5 +9,7 @@ This part was created for my personal use in my microcontroller university cours
 TODOs:
 
   Make all the pins uniformal
+  
+  Review fritzing wishlist parts and start practising more parts
  
 
